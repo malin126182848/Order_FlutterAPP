@@ -1,0 +1,27 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": {
+    "orderId": "1588427904628205733",
+    "buyerName": "aa",
+    "buyerPhone": "12012213333",
+    "buyerAddress": "6",
+    "buyerOpenid": "321321321",
+    "orderAmount": 72,
+    "orderStatus": 0,
+    "payStatus": 0,
+    "createTime": 1588427904,
+    "updateTime": 1588427904,
+    "orderDetailList": [
+      {
+        "detailId": "1588427904705174086",
+        "orderId": "1588427904628205733",
+        "productId": "233",
+        "productName": "冰霜汉堡",
+        "productPrice": 36,
+        "productQuantity": 2,
+        "productIcon": "http://i5.chuimg.com/f136de5ffa384af682ff34c2b26a65dc_1536w_2048h.jpg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "msg": "成功",
+  "data": [
+    {
+      "name": "外卖推荐",
+      "type": 0,
+      "foods": [
+        {
+          "id": "233",
+          "name": "冰霜汉堡",
+          "price": 36.00,
+          "description": "好吃的冰霜小麦加秘制烤肉串",
+          "icon": "http://i5.chuimg.com/f136de5ffa384af682ff34c2b26a65dc_1536w_2048h.jpg"
+        },
+        {
+          "id": "321",
+          "name": "黑面包",
+          "price": 11.50,
+          "description": "黑黑的面包,产自大大的面包树，不怎么好吃",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "主食",
+      "type": 1,
+      "foods": [
+        {
+          "id": "666",
+          "name": "海陆双拼",
+          "price": 24.00,
+          "description": "美味的库帕鱼肉加秘制烤肉串",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "快餐",
+      "type": 2,
+      "foods": [
+        {
+          "id": "haha123",
+          "name": "酸菜鱼",
+          "price": 36.00,
+          "description": "好吃不上火",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        },
+        {
+          "id": "haha12333",
+          "name": "酸菜鱼",
+          "price": 36.00,
+          "description": "好吃的酸菜鱼，不可错过",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        }
+      ]
+    },
+    {
+      "name": "美食拼盘",
+      "type": 3,
+      "foods": [
+        {
+          "id": "555",
+          "name": "腌制米虱",
+          "price": 10.50,
+          "description": "由米虱腌制而成,不怎么好吃",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        },
+        {
+          "id": "haha456",
+          "name": "皮皮虾",
+          "price": 50.00,
+          "description": "皮皮虾我们走",
+          "icon": "https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2361378440,2461312186&fm=26&gp=0.jpg"
+        }
+      ]
+    }
+  ]
+}
